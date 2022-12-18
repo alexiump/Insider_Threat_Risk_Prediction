@@ -1,5 +1,4 @@
 # Insider_Threat_Risk_Prediction
-### NYCDSA - Capstone Project
 
 An anomaly detection framework for insider threat risk prediction using Isolation Forest algorithm.
 
